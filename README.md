@@ -15,10 +15,8 @@ Das einzige, was wirklich hilft, ist die digitale Entgiftung:
 Den Vergleich mit Filtern, falschen Vorbildern und künstlich hochgepushten Idealen zu beenden. Konkret bedeutet das: **TikTok löschen**.  
 
 ```bash
-rm -rf ~/apps/tiktok
-
-
-
+rm -rf ~/apps/tikt 
+```
 # Quellen zu Lookmaxing und TikTok
 
 ## Lookmaxing und genetische Grenzen
