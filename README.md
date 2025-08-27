@@ -1,3 +1,5 @@
+//THIS IS A HUGE COPE, TAKING HGH, TEST, ANAVAR, IGF-1 AND EATING RAW MEAT IN PUBERTY WILL CHANCE YOUR BONE STRUCTUR. 
+
 # Warum Lookmaxing nicht funktioniert
 
 ## Die harte Wissenschaft
